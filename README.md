@@ -2,7 +2,7 @@
 
 
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning c and c#
+- 🌱 I’m currently learning *C* and *C#*
 
 ### Languages that I know :
 <p align ="left"> 
