@@ -3,7 +3,7 @@
 
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
 - 🌱 I’m currently learning *C* and *C#*
-- 🔭 I love development and programming
+- 🔭 I love development and programmation
 
 ### The OS that I use :
 <p align ="left">
