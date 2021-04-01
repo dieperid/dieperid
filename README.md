@@ -1,7 +1,7 @@
 ### Welcome on my GitHub profil 🐈
 
 
-- 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
+- 👨🏼‍🎓I'm an [ETML](https://etml.ch) student
 - 🌱 I’m currently learning *C* and *C#*
 - 🔭 I love development and programming
 
