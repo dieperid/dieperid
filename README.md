@@ -14,3 +14,5 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;
 </p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anthohn&langs_count=5&theme=tokyonight)]()
