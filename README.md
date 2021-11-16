@@ -2,8 +2,8 @@
 
 
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning *C* and *C#*
-- 🔭 I love development and programmation
+- 🌱 I’m currently learning *SQL*, *C#* and *PHP*
+- 🔭 I love devlopment and programmation
 
 ### Languages that I know :
 <p align ="left"> 
