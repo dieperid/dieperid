@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet">
 
 <h1 align="center">Hi, I'm David</h1>
 
@@ -23,7 +22,7 @@
 
 ## Welcome on my GitHub profil 🐈
 
-<div class="container">
+<div class="container" style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-between;">
     
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
 - 🌱 I’m currently learning *SQL*, *JavaScript* and *PHP*
