@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet">
+
 <h1 align="center">Hi, I'm David</h1>
 
 <p align="center">
@@ -20,15 +22,13 @@
 <br>
 
 ## Welcome on my GitHub profil 🐈
-<div>
-  <div align="left">
+
+<div class="container">
     
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
 - 🌱 I’m currently learning *SQL*, *JavaScript* and *PHP*
 - 🔭 I love devlopment and programmation
-</div>
-<div align="right">
   
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=5&theme=tokyonight&layout=compact)]()
-  </div>
-  </div>
+
+</div>
