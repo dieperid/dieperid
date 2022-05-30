@@ -21,12 +21,9 @@
 
 ## Welcome on my GitHub profil 🐈
 
-<div class="container" style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-between;">
-    
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=5&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=5&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+ 
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
 - 🌱 I’m currently learning *SQL*, *JavaScript* and *PHP*
 - 🔭 I love devlopment and programmation
-  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=5&theme=tokyonight&layout=compact)]()
-
-</div>
