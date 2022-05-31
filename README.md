@@ -25,5 +25,5 @@
 [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=5&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
  
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning *SQL*, *JavaScript* and *PHP*
+- 🌱 I’m currently learning *Three.js*, *JavaScript* and *PHP*
 - 🔭 I love devlopment and programmation
