@@ -26,4 +26,4 @@
  
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
 - 🌱 I’m currently learning *Three.js*, *JavaScript* and *PHP*
-- 🔭 I love devlopment and programmation
+- 🔭 I love web development
