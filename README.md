@@ -25,6 +25,6 @@
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
  ![](https://komarev.com/ghpvc/?username=dieperink&label=Profile+Views&style=for-the-badge)
-- 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning *Assembly*, *JavaScript* and *PHP*
+- 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student<br>
+- 🌱 I’m currently learning *Assembly*, *JavaScript* and *PHP*<br>
 - ❤️ I love web development
