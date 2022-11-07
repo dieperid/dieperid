@@ -1,4 +1,4 @@
-<h1 align="center"> > Hi, I'm David</h1>
+<h1 align="center"><samp> > Hi, I'm David</samp></h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/dieperid/dieperid/master/standard.gif"></p>
 <p align="center">
