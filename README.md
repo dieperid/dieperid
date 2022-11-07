@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm David</h1>
+<h1 align="center"> > Hi, I'm David</h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/dieperid/dieperid/master/standard.gif"></p>
 <p align="center">
@@ -21,9 +21,10 @@
 
 ## Welcome on my GitHub profil 🐈
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=5&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=5&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
- 
+
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+ ![](https://komarev.com/ghpvc/?username=dieperink&label=Profile+Views&style=for-the-badge)
 - 👨🏼‍🎓 I'm an [ETML](https://etml.ch) student
-- 🌱 I’m currently learning *Three.js*, *JavaScript* and *PHP*
-- 🔭 I love web development
+- 🌱 I’m currently learning *Assembly*, *JavaScript* and *PHP*
+- ❤️ I love web development
