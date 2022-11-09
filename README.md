@@ -1,9 +1,6 @@
 <h1 align="center"><samp> > Hi, I'm David</samp></h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/dieperid/dieperid/master/standard.gif"></p>
-<p align="center">
- <img src="https://img.shields.io/github/followers/dieperid.svg?style=social&label=Follow&maxAge=2592000" alt="Follower count"/>
-</p>
 
 <div align="center">
   <h2> Technologies & Tools </h2>
