@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/dieperid/dieperid/master/standard.gif"></p>
 
 <div align="center">
-  <h2> Technologies & Tools </h2>
+  <h2><samp> Technologies & Tools </samp></h2>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -16,7 +16,7 @@
 
 <br>
 
-## Welcome on my GitHub profil 🐈
+<h2><samp> Welcome on my GitHub profil 🐈</samp></h2>
 
 
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
