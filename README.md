@@ -34,7 +34,7 @@
     <ul>
         <li>❤️ I love web development</li>
         <li>💻 I’m currently learning <i>ThreeJS</i></li>
-        <li>✉️ How to contact me dieperid@sefanet.ch</li>
+        <li>✉️ How to contact me david.dieperink@ik.me</li>
     </ul>
 </h4><br><br>
 
