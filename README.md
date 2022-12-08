@@ -32,7 +32,7 @@
 <h4>
     <ul>
         <li>❤️ I love web development</li>
-      <li>💻 I’m currently learning <i>ThreeJS</i> and <i>Laravel</i></li>
+        <li>💻 I’m currently learning <i>ThreeJS</i> and <i>Laravel</i></li>
         <li>✉️ How to contact me contact@daviddieperink.ch</li>
     </ul>
 </h4><br><br>
