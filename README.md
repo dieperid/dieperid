@@ -24,7 +24,8 @@
 
 <h2><samp> Welcome on my GitHub profil 🐈</samp></h2>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&langs_count=6&layout=compact">](./#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&langs_count=6&layout=compact">](./#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&langs_count=6&layout=compact">](./#gh-dark-mode-only)
 
  ![](https://komarev.com/ghpvc/?username=dieperink&label=Profile+Views&style=for-the-badge)
 
