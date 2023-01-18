@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/ThreeJs-323330?style=for-the-badge&logo=three.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=DD0031"/>
 
 </div>
@@ -27,10 +27,10 @@
 
 <h2><samp> Welcome on my GitHub profil 🐈</samp></h2>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&langs_count=6&layout=compact">](./#gh-light-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&langs_count=6&layout=compact">](./#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&langs_count=6&layout=compact">](./#gh-light-mode-only)
 
- ![](https://komarev.com/ghpvc/?username=dieperink&label=Profile+Views&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=dieperink&label=Profile+Views&style=for-the-badge)
 
 <h4>
     <ul>
