@@ -1,7 +1,7 @@
 <h2 align="center"><samp> > Hi, I'm David, <br>Welcome on my GitHub profil 👨‍🎓</samp></h2>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
   
 <h4>
   <ul>
