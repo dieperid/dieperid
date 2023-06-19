@@ -1,8 +1,8 @@
 <h2 align="center"><samp> > Hi, I'm David, <br>Welcome on my GitHub profil 👨‍🎓</samp></h2>
 
-[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
-  
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+<br><br>
 <h4>
   <ul>
     <li>❤️ I love web development</li>
@@ -10,9 +10,9 @@
     <li>✉️ How to contact me : contact@daviddieperink.ch</li>
     <li>🌐 My website <a href="https://www.daviddieperink.ch/">Resume - David Dieperink</a></li>
   </ul>
-</h4>
+</h4><br>
 
-<div>
+<div align="center">
   <h2><samp> Technologies & Tools </samp></h2>
   <img src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/Debian-323330?style=for-the-badge&logo=debian&logoColor=A81D33"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/node js-323330?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/npm-323330?style=for-the-badge&logo=npm&logoColor=CB3837"/>
   <img src="https://img.shields.io/badge/Vite-323330?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-  <img src="https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-323330?style=for-the-badge&logo=vercel&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=777BB4"/>
