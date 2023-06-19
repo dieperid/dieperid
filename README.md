@@ -1,4 +1,6 @@
-<h1 align="center"><samp> > Hi, I'm David, <br>Welcome on my GitHub profil 👨‍🎓</samp></h1>
+<h2 align="center">
+  <samp> > Hi, I'm David, <br>Welcome on my GitHub profil 👨‍🎓</samp>
+</h2>
 
 [<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
@@ -13,7 +15,7 @@
 </h3><br><br>
 
 <div align="center">
-  <h1><samp> Technologies & Tools </samp></h1>
+  <h2><samp> Technologies & Tools </samp></h2>
   <img src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/Debian-323330?style=for-the-badge&logo=debian&logoColor=A81D33"/>
   <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2CA5E0"/>
