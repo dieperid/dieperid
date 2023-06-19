@@ -33,9 +33,8 @@
 <h4>
     <ul>
         <li>❤️ I love web development</li>
-        <li>💻 I’m currently learning <i>ThreeJS</i>, <i>Angular</i> and <i>Laravel</i></li>
-        <li>✉️ How to contact me contact@daviddieperink.ch</li>
+        <li>💻 I’m currently learning <i>ThreeJS</i> & <i>Angular</i></li>
+        <li>✉️ How to contact me : contact@daviddieperink.ch</li>
         <li>🌐 My website <a href="https://www.daviddieperink.ch/">Resume - David Dieperink</a></li>
     </ul>
 </h4><br><br>
-
