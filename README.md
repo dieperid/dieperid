@@ -13,7 +13,7 @@
 </h3><br><br>
 
 <div align="center">
-  <h2><samp> Technologies & Tools </samp></h2>
+  <h1><samp> Technologies & Tools </samp></h1>
   <img src="https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/Debian-323330?style=for-the-badge&logo=debian&logoColor=A81D33"/>
   <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2CA5E0"/>
