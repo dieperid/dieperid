@@ -5,14 +5,14 @@
 [<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=nord&layout=compact">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 [<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieperid&theme=light&layout=compact">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 <br>
-<h4>
+<h3>
   <ul>
     <li>❤️ I love web development</li>
     <li>💻 I’m currently learning <i>ThreeJS, Laravel</i> & <i>Angular</i></li>
     <li>✉️ How to reach me : contact@daviddieperink.ch</li>
     <li>🌐 My website <a href="https://www.daviddieperink.ch/">Resume - David Dieperink</a></li>
   </ul>
-</h4><br><br>
+</h3><br><br>
 
 <div align="center">
   <h2><samp> Technologies & Tools </samp></h2>
