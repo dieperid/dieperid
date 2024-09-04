@@ -8,7 +8,7 @@
 <h3>
   <ul>
     <li>❤️ I love web development</li>
-    <li>💻 I’m currently learning <i>Laravel & Angular</i></li>
+    <li>💻 I’m currently learning <i>Laravel & PHP</i></li>
     <li>✉️ How to reach me : contact@daviddieperink.ch</li>
     <li>🌐 My website <a href="https://www.daviddieperink.ch/">Resume - David Dieperink</a></li>
   </ul>
@@ -30,6 +30,3 @@
   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
   <img src="https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=angular&logoColor=DD0031"/>
 </div>
-
-
-
