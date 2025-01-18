@@ -9,7 +9,7 @@
   <ul>
     <li>❤️ I love web development</li>
     <li>💻 I’m currently learning <i>Laravel & PHP</i></li>
-    <li>✉️ How to reach me : contact@daviddieperink.ch</li>
+    <li>✉️ How to reach me : <a href="mailto:contact@daviddieperink.ch">contact@daviddieperink.ch</a></li>
     <li>🌐 My website <a href="https://www.daviddieperink.ch/">Resume - David Dieperink</a></li>
   </ul>
 </h3><br><br>
