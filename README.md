@@ -6,7 +6,7 @@
 <h3>
   <ul>
     <li>❤️ I love web development</li>
-    <li>💻 I’m currently learning <i>Laravel & PHP</i></li>
+    <li>💻 I’m currently learning <i>NextJS & React</i></li>
     <li>✉️ How to reach me : <a href="mailto:contact@daviddieperink.ch">contact@daviddieperink.ch</a></li>
     <li>🌐 My website <a href="https://www.daviddieperink.ch/">Resume - David Dieperink</a></li>
   </ul>
